@@ -32,7 +32,7 @@
 
 ## 💻 Work Stats
 
-![Work Stats](https://github-readme-stats.vercel.app/api?username=aakashpsindhi&show_icons=true&hide_border=true&count_private=true&theme=dark)
+![Work Stats](https://github-readme-stats.vercel.app/api?username=aakash-pamnani&show_icons=true&hide_border=true&count_private=true&theme=dark)
 
 [github]: https://github.com/aakashpsindhi
 [twitter]: https://twitter.com/Aakash_P_
