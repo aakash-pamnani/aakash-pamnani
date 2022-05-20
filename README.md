@@ -37,4 +37,4 @@
 [github]: https://github.com/aakashpsindhi
 [twitter]: https://twitter.com/Aakash_P_
 
-[linkedin]: https://linkedin.com/in/aakashpsindhi
+[linkedin]: https://linkedin.com/in/aakashpamnani
