@@ -3,7 +3,7 @@
 ### <img src="https://media3.giphy.com/media/GasKeLJHeOD4K50B7V/giphy.gif?cid=ecf05e47gre5hqmval2mytgllbn49cu0g5lbn6b3ujz8ejpk&rid=giphy.gif&ct=s" width="50"> A little about me...
 - 🔭 I’m currently working on Flutter.
 - 🌱 I know basics of Web Development.
-- 🥅 2022 Goals: Work on my skills.
+- 🥅 2023 Goals: Work on my skills.
 
 
 ## Connect with me:
